@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/chooseBackground"
+        android:icon="@drawable/ic_background"
+        android:iconTint="@color/black"
+        android:title="Background" />
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_share"
+        android:iconTint="@color/black"
+        android:title="Share" />
+
+    <item
+        android:id="@+id/deleteBackground"
+        android:icon="@drawable/ic_delete"
+        android:iconTint="@color/black"
+        android:title="Delete" />
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/ic_info"
+        android:iconTint="@color/black"
+        android:title="Info" />
+
+
+</menu>
